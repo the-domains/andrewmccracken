@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Innovation Development]]></title>
+        <description><![CDATA[Innovation Development]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 15:26:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Innovation]]></title>
+            <description><![CDATA[<article><h1>Innovation</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper sit amet tortor vel tempor. Nunc luctus rutrum sem, eu ullamcorper lectus venenatis vel. Curabitur placerat bibendum tellus sit amet venenatis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam ipsum felis, sollicitudin vel velit sollicitudin, sagittis pharetra felis. Nullam finibus quis eros vel faucibus. Etiam lacus sem, faucibus at ipsum id, ornare tincidunt mauris. Quisque maximus diam sed dui fermentum consequat. Phasellus hendrerit venenatis nisl.</p></article>]]></description>
+            <link>undefinedinnovation/index.html</link>
+            <guid isPermaLink="false">a6244029-43bd-4a14-9ff7-3bb4233022b1</guid>
+            <pubDate>Wed, 02 Dec 2015 15:25:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
