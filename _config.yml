@@ -1,6 +1,6 @@
 name: Andrewmccracken
 favicon: null
-layout_spectrum: 0.4147940219845623
+layout_spectrum: 1
 typography_spectrum: 0.3759959004819393
 title: Innovation Development
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6142059464473277
+  brandStrength: 0.75
   lightness: 0.3225411754101515
   saturation: 0.9498592910822481
   rhythmicContrast: 0.5959199983626604
